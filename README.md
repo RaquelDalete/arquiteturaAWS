@@ -26,7 +26,8 @@ Na **AutoNimbus**, arquitetamos sistemas cloud com precisão cirúrgica. Esta in
 ## 🌐 **Tecnologias que Dominamos**  
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS](https:https://img.shields.io/badge/Draw.io-%23000000.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Captura de tela 2025-02-02 222923](https://github.com/user-attachments/assets/3fcbc0f0-7e4a-42e5-8d22-8a5c3a290fd7)
+
 
 ---
 
