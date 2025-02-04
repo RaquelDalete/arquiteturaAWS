@@ -33,4 +33,5 @@ Na **AutoNimbus**, arquitetamos sistemas cloud com precisão cirúrgica. Esta in
 
 ## 🎨 **Feito com Draw.io**  
 Todos os diagramas técnicos foram criados usando:  
-![Captura de tela 2025-02-02 222923](https://github.com/user-attachments/assets/3fcbc0f0-7e4a-42e5-8d22-8a5c3a290fd7)
+![image](https://github.com/user-attachments/assets/41140a7f-9e2d-4ebc-b282-f5dddae0607e)
+
