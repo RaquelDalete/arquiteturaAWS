@@ -23,16 +23,11 @@ Na **AutoNimbus**, arquitetamos sistemas cloud com precisão cirúrgica. Esta in
 ---
 
 
-## 🌐 **Tecnologias que Dominamos**  
-
-![arquitetura aws](https://github.com/user-attachments/assets/1b14d0ab-0207-4d75-a5b8-bfc6042e428d)
-
-
-
 
 ---
 
 ## 🎨 **Feito com Draw.io**  
 Todos os diagramas técnicos foram criados usando:  
-![image](https://github.com/user-attachments/assets/41140a7f-9e2d-4ebc-b282-f5dddae0607e)
+![arquitetura aws](https://github.com/user-attachments/assets/65273e9f-8449-4b27-be1c-3ff127bc6066)
+
 
