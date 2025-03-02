@@ -8,7 +8,7 @@
 ## 🌟 **Sobre Esta Infraestrutura**  
 Na **AutoNimbus**, arquitetamos sistemas cloud com precisão cirúrgica. Esta infraestrutura inclui:  
 - **Diagramas inteligentes** feitos no Draw.io  
-- **Automação radical** com AWS  
+- **Automação radical** com AWS especificamente com CloudFormation  
 - **Resiliência nativa** desde o primeiro rascunho  
 
 ---
@@ -25,7 +25,8 @@ Na **AutoNimbus**, arquitetamos sistemas cloud com precisão cirúrgica. Esta in
 
 ## 🌐 **Tecnologias que Dominamos**  
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![arquitetura aws](https://github.com/user-attachments/assets/1b14d0ab-0207-4d75-a5b8-bfc6042e428d)
+
 
 
 
